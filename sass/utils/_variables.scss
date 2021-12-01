@@ -1,37 +1,9 @@
 :root {
-  --first-color: #212121;
-  --secondary-color: #757575;
-  --third-color: #ffffff;
-  --fourth-color: #2f303a;
-  --fifth-color: #f5f4fa;
-  --sixth-color: #c4c4c4;
-  --seven-color: #afb1b8;
-  --accent-color: #2196f3;
-  --hover-color: #188ce8;
-  --primary-border-line-color: #ececec;
-  --secondary-border-line-color: #eeeeee;
-}
-
-.title {
-  color: var(--first-color);
-}
-
-.light-title {
-  color: var(--third-color);
-}
-
-.pre-title {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
-
-.main-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.17;
-  text-align: center;
-  letter-spacing: 0.03em;
+    --primary-text-color: #212121;
+    --title-text-color: #757575;
+    --accent-color: #2196f3;
+    --primary-white-color: #ffffff;
+    --accent-secondary-color: #f5f4fa;
+    --background-section-color: #2f303a;
+    --secondary-title-color: #212121;
 }
